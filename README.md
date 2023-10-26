@@ -1,0 +1,2 @@
+# ezragithub
+Tugas membuat blog 
